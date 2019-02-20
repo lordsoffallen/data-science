@@ -1,0 +1,10 @@
+- DataFrame object with integrated indexing
+- Tools for reading and writing data between in-memory data structures and different formats: CSV and text files, Microsoft Excel, SQL databases, and the fast HDF5 format
+- Intelligent data alignment and integrated handling of missing data
+- Intelligent label-based slicing of large data sets
+- SQL-like operations on data sets
+- Time series-functionality: 
+    - date range generation and frequency conversion
+    - moving window statistics
+    - moving window linear regressions
+    - date shifting and lagging
