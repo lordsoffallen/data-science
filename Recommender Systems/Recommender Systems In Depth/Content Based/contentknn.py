@@ -6,7 +6,6 @@ import math
 import numpy as np
 
 
-
 class ContentKNNAlgorithm(AlgoBase):
     def __init__(self, k=40, sim_options={}, verbose=False):
         """ Init a ContentKNNAlgorithm class to calculate item based
